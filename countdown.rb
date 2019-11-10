@@ -12,4 +12,5 @@ def countdown
   if counter= 0 
     puts "Happy new year"
 end
-def cou
+def countdown_with_sleep
+  

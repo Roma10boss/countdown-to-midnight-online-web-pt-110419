@@ -5,7 +5,7 @@ def inte
   end
 
 def countdown
-  counter = num
+  counter = 0
   while counter < num
   puts "#{num} seconds"
   counter -=1

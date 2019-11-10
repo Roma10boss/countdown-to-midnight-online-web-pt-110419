@@ -9,7 +9,7 @@ def countdown
   while counter < num
   puts "#{num} seconds"
   counter -=1
+  if counter= 0 
+    puts "Happy new year"
 end
-return "Happy new year"
-end
-
+def cou
